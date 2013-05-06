@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Riley Yeakle
+url: ryeakle.github.com
+description: This needs a description
+twitter: RileyYeakle
+github: ryeakle
+gravatar_url: http://gravatar.com/avatar/ab26d5ab8c986c8a5a18c2d4546d1dab.png
