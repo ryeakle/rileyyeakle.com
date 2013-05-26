@@ -8,10 +8,10 @@ a {
   color: #227ce8; }
 .sidebar {
   position: fixed;
-  left: 15px;
+  left: 825px;
   top: 15px;
   width: 80px;
-  font-family: Helvetica, sans-serif; }
+  font-family: Helvetica, sans-serif;}
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
@@ -23,7 +23,7 @@ a {
     border-radius: 5px; }
   .sidebar .name {
     text-transform: uppercase;
-    margin: 10px 0 20px 0; }
+    margin: 10px 0 0 0; }
     .sidebar .name #fname {
       padding-left: 1px;
       font-size: 23px;
@@ -52,10 +52,14 @@ a {
         /*color: #227ce8;*/
         color: #ff8508;  }
     .sidebar .sections ul {
-      margin: 0;
-      padding: 0; }
+      margin: 0px 0 0 0;
+      padding: 3px;}
     .sidebar .sections li {
+      border:0px solid white;
+      border-left-color: black;
+      border-left-width: 1px;
       list-style: none;
+      padding-left: 3px;
       margin-bottom: 7px; }
 
 .content {
@@ -212,18 +216,19 @@ a {
     color: #fff; }
 
 .banner {}
-
   .banner .myname {
      text-transform: uppercase;
-     letter-spacing: 30px;
-     margin: 15px 0 0px 110px;
+     letter-spacing: 40px;
+     margin: 15px 0 0px 50px;
      font-size: 40px;
      font-family: Helvetica, sans-serif;
      display: block;}
    .banner .header {
-     margin: 0 0 15px 110px;}
+     margin: 0 0 0 75px;}
 
-/*.sidebar .name {
-    text-transform: uppercase;
-    margin: 10px 0 20px 0; }
-*/
+.footer {
+   width: 650px;
+   margin: 15px 15px 0 110px;}
+   .footer a {
+      float: right;
+      margin: 0 5px 0 0;}

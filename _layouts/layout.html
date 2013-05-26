@@ -31,17 +31,10 @@
       <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
     </a>
 
-    <section class="name">
-      <a href="/">
-        <span id="fname">{{ site.name|split:' '|first }}</span>
-        <span id="lname">{{ site.name|split:' '|last }}</span>
-      </a>
-    </section>
-
-    <section class="meta">
+<!--    <section class="meta">
       <a href="https://github.com/{{ site.github }}" target="_blank"><img src="/images/github.png" /></a>
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="/images/twitter.png"></a>
-    </section>
+    </section> -->
 
     <section class="sections">
       <ul>
@@ -53,6 +46,12 @@
   </section>
 
   {{ content }}
+
+  <section class="footer">
+      <a href="https://github.com/{{ site.github }}" target="_blank"><img src="/images/github.png" /></a>
+      <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="/images/twitter.png"></a>
+    </section>
+
 </body>
 
 </html>
