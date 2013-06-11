@@ -1,13 +1,4 @@
 @charset "UTF-8";
-/********************
-Colorscheme
-dark grey:    #4f4f4f
-light grey:   #696969
-hard orange:  #ff8508
-soft orange:  #ff9f3d
-light orange: #ffb971
-*******************/
-
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin: 0;
@@ -16,7 +7,7 @@ body {
 a {
   color: #227ce8; }
 .container {
-   margin: 0 0 15px 15px;}
+   margin: 15px 0 15px 15px;}
 
 .container .sidebar {
 /*  position: fixed;
@@ -24,7 +15,7 @@ a {
   top: 120px;*/
   width: 80px;
   height: 500px;
-  margin: 5px 0 0 0;
+  margin: 15px 15px 0 15px;
   float: left;
   font-family: Helvetica, sans-serif;}
   .container .sidebar a {
@@ -60,7 +51,6 @@ a {
     .container .sidebar .sections a {
       padding: 3px 0;
       color: black;
-      /*color: #4f4f4f;*/
       font-weight: bold;
       font-size: 12px;
       display: block; }
@@ -71,15 +61,18 @@ a {
       margin: 0px 0 0 0;
       padding: 3px;}
     .container .sidebar .sections li {
-      /*background-image: url("/images/line.gif");
-      background-repeat: repeat-y; */
+   /*   border:0px solid white;
+      border-left-color: black;
+      border-left-width: 1px; */
+      background-image: url("/images/line.gif");
+      background-repeat: repeat-y; 
       list-style: none;
       padding-left: 3px;
       margin-bottom: 7px; }
 
 .container .content {
   max-width: 650px;
-  margin-left: 95px;
+  margin-left: 120px;
   margin-right: 20px;
   margin-bottom: 50px;}
   .container .content h1 {
@@ -184,18 +177,17 @@ a {
       margin: 0;
       padding: 0; }
     .container .content .listing li {
-      font-size: 20px;
+      font-size: 18px;
       font-family:"Yanone Kaffeesatz", Helvetica, sans-serif;
+      /*font-family: sans-serif;*/
       list-style: none;
       padding: 5px 3px;
       margin: 0;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .container .content .listing li span {
-      /*color: #696969;*/
       float: right; }
     .container .content .listing a {
-      color: #4f4f4f;
       text-decoration: none; }
       .container .content .listing a:hover {
         text-decoration: underline; 
@@ -230,41 +222,16 @@ a {
   .container .content .talk-design .color .white {
     color: #fff; }
 
-.banner {
-   max-width: 650px;
-   max-height: 80px;
-   margin: 15px 0 0 110px;}
-  .banner .myname a {
-     text-align: center;
-     text-decoration: none;
+.banner {}
+  .banner .myname {
      text-transform: uppercase;
-     letter-spacing: 30px;
-     margin: 0px 0 0px 0px;
+     letter-spacing: 40px;
+     margin: 15px 0 0px 120px;
      font-size: 40px;
      font-family: Helvetica, sans-serif;
-     color: #4f4f4f;
      display: block;}
    .banner .header {
-     height: 1px;
-     background-image: url("/images/drk-grey-pix.png");
-     background-repeat: repeat-x;
-     display: block;
-     margin-left: auto;
-     margin-right: auto;}
-   /*.banner .h-left {
-     height: 32px;
-     background-image: url("/images/drk-grey-pix.png");
-     background-repeat: repeat-x;
-     margin-top: 15px;}*/
-   .banner .dispimg  {
-     margin-left: 309px;
-     float: left;}
-   .banner .h-right {
-     height: 32px;
-     background-image: url("/images/drk-grey-pix.png");
-     background-repeat: repeat-x;
-     margin: 15px 100px 0 100px; }
-     
+     margin: 0 0 0 120px;}
 
 .footer {
    max-width: 650px;
@@ -272,8 +239,3 @@ a {
    .footer a {
       float: right;
       margin: 0 5px 0 0;}
-   .footer span {
-      font-size: 10px; 
-      color: #ffb971;
-      float: left;
-    }

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Riley Yeakle</title>
+ <link href="ryeakle.github.com/atom.xml" rel="self"/>
+ <link href="ryeakle.github.com/"/>
+ <updated>2013-05-27T22:28:15-07:00</updated>
+ <id>ryeakle.github.com</id>
+ <author>
+   <name>Riley Yeakle</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Learning Programming</title>
+   <link href="ryeakle.github.com/posts/learning-programming"/>
+   <updated>2013-05-12T00:00:00-07:00</updated>
+   <id>ryeakle.github.com/posts/learning-programming</id>
+   <content type="html">&lt;p&gt;Friends often ask me,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;I want to learn how to program, how can I learn how to program? What should I do to start?&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;My response is always the same.&lt;/p&gt;
+
+&lt;h2&gt;What do you want to learn?&lt;/h2&gt;
+
+&lt;p&gt;Is your goal to learn how computers work? We&amp;rsquo;re not talking about webapps and all that so called &amp;lsquo;high level&amp;rsquo; nonsense.
+We&amp;rsquo;re talking about electricity pulses flowing through tiny channels of
+semiconductor, shaped into a useful abstraction for computation. This is
+the level of computation that interacts with the real world, where physics
+isn&amp;rsquo;t just a nebulous memory from high school.&lt;/p&gt;
+
+&lt;p&gt;Or perhaps you think the circuits people did a great job. In fact,
+they did such a great job at building this foundational platform
+for abstraction that it would be a shame to put all that work to
+waste. You want to harness this power to quickly spin out solutions
+to your problems with high level computation. Computers are like
+cars. Building them is certainly a worthy endeavor, but that&amp;rsquo;s just
+the start. They&amp;rsquo;re capable of so much more when you take them out
+for a spin, with all the power of that initial engineering behind you.&lt;/p&gt;
+
+&lt;p&gt;These are two starting points for learning to program: low-level first
+and high-level first.&lt;/p&gt;
+
+&lt;h2&gt;If I knew more about programming, I&amp;rsquo;d know how to answer that&lt;/h2&gt;
+
+&lt;h3&gt;Low Level Programming&lt;/h3&gt;
+
+&lt;p&gt;&amp;lsquo;Low level&amp;rsquo; in computer science refers to programs that are closely tied to
+the physical hardware of the computer. These programs are directly connected
+to the computer&amp;rsquo;s actual circuitry. You might tell the computer to read a
+voltage off of an input, or toggle the bits in a register. The low-ness means
+the level of abstraction. The lower level the program, the more the code
+you write will actually resemble the machine instructions.&lt;/p&gt;
+
+&lt;h3&gt;High Level Programming&lt;/h3&gt;
+
+&lt;p&gt;&amp;lsquo;High level&amp;rsquo; means the level of abstraction is&amp;hellip; high. The code you write
+looks nothing like the actual instructions the computer executes. This is because someone smarter than you figured out how to take more human-friendly
+input and turn it into computer friendly instructions.&lt;/p&gt;
+
+&lt;p&gt;For example, in a medium level of abstraction, to open a door, you might say
+1. Approach door
+2. Identify handle
+3. Lift arm to door
+4. Grab handle
+5. Twist knob
+6. Push door
+7. Release handle&lt;/p&gt;
+
+&lt;p&gt;At a high level of abstraction, you realize that the procedure for opening
+a door is well defined and you would simply say:
+1. open door&lt;/p&gt;
+
+&lt;p&gt;At a low level of abstraction, you would go through the process of actuating
+the muscles required to carry out the motions needed to perform the sub-tasks
+needed to open the door.&lt;/p&gt;
+
+&lt;h2&gt;Low Level: Where Do Computers Come From?&lt;/h2&gt;
+
+&lt;p&gt;If you want to know how computers actually work, or are interested in robotics,
+this is a good place to start. I think the best way to get started with this
+is with the Arduino microcontrollers. Microcontrollers are like tiny computers
+without operating systems. You give them a program to run, and then they
+run that program forever.&lt;/p&gt;
+
+&lt;p&gt;The tricky part about microcontrollers is that the learning curve usually
+looks something like this:&lt;/p&gt;
+
+&lt;p&gt;What makes Arduino cool though is that they&amp;rsquo;ve eased the learning curve
+and lowered the barriers for entry into the world of microcontrollers.&lt;/p&gt;
+
+&lt;p&gt;The community for arduino is unbelievably strong,&lt;/p&gt;
+
+&lt;p&gt;If this is the kind of thing you want to do professionally, you should
+transition to AVR or PIC microcontrollers. For hobbyist purposes, like
+(link) automating your dog food, Arduino is great.&lt;/p&gt;
+
+&lt;h2&gt;High Level: Poetry in Motion&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Photography and Exploration</title>
+   <link href="ryeakle.github.com/posts/photography-and-exploration"/>
+   <updated>2013-04-02T00:00:00-07:00</updated>
+   <id>ryeakle.github.com/posts/photography-and-exploration</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/geiselspring.jpg&quot; title=&quot;Geisel Library&quot; alt=&quot;UCSD during the Spring&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Taking a picture of something new every day is a great idea. How good the pictures are doesn&amp;rsquo;t matter.&lt;br/&gt;
+What does matter, is that they&amp;rsquo;re never of the same thing. This small practice can have a big effect on
+your lifestyle by encouraging new explorations and deviation from routine.&lt;/p&gt;
+
+&lt;p&gt;Photographers would probably tell you this, but I never believed it until I tried.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;(last edit: 2013-05-04)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Art of Engineering and Engineering Art</title>
+   <link href="ryeakle.github.com/posts/the-art-of-engineering-and-engineering-art"/>
+   <updated>2013-03-29T00:00:00-07:00</updated>
+   <id>ryeakle.github.com/posts/the-art-of-engineering-and-engineering-art</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/JSoE.jpg&quot; alt=&quot;Yes, that's a house. Is the art good because the artist was creative or because he understood how the 'human' system works? Yes.&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I read a &lt;a href=&quot;http://techgnotic.deviantart.com/journal/The-Rise-Of-The-Artist-You-Are-The-Future-356840683&quot; title=&quot;Rise of the Artist&quot;&gt;great essay&lt;/a&gt; by Auren Hoffman recently on the role of creative thinking
+future society. His essay
+proposes that once computers and AI develop sufficiently, computers will take over more
+systems-thinking tasks, increasing the value of creative thinking to society.
+This got me thinking about the role of creativity in engineering.
+After thinking about how creative and systems thinking interact in problem solving, I&amp;rsquo;ve concluded
+that by themselves, creativity or systems thinking alone are not sufficient to come up with great
+solutions to problems. Combining both effectively is how great solutions happen.&lt;/p&gt;
+
+&lt;h1&gt;Systems Thinking Without Creativity&lt;/h1&gt;
+
+&lt;p&gt;The other day, my professor was talking to my class about the importance of geometric understanding
+in solving machine learning problems. He said something along the lines of, &amp;ldquo;If all you can do is
+execute the integrals, then I&amp;rsquo;ll get a computer to do it, and it can do it about a thousand times
+faster than you.&amp;rdquo; When it comes down to jobs like mathematical execution, computers are way better
+than humans. The edge humans have though, is the understanding of problems. Computers simply execute
+a cleverly crafted string of instructions to solve a problem. Humans can think about things like
+context, cause and effect, and implications of a solution when problem-solving. Though computers are
+invaluable tools for systems-thinking, they don&amp;rsquo;t help with the creative aspects of problem-solving.&lt;/p&gt;
+
+&lt;p&gt;Innovation in engineering happens as a result of scarcity of resources. A project with an infinite budget
+and few constraints (e.g. must weigh less than 0.5 kg, use less than 10 watts of electricity, and fits in
+your pocket) is almost certainly won&amp;rsquo;t produce any innovative solutions. When attacking a problem,
+problem-solvers need to make choices on how to allocate scarce resources. How someone chooses to allocate
+these resources determines how good the solution is. The clever use of available problem solving tools,
+like math, physics, or even sociology can save a lot of brute-force problem solving effort, and result in
+&amp;lsquo;better&amp;rsquo; solutions.&lt;/p&gt;
+
+&lt;p&gt;The gradient descent algorithm is a great example of this in optimization. Gradient descent is a brute-force
+algorithm that will sure enough produce a solution to a minimization problem (e.g. minimize the power use,
+probability of error, etc). However, through the creative application of mathematical tricks like the Taylor
+approximation, Gauss and Newton were able to produce optimization algorithms that are much faster and more
+stable than the gradient descent algorithm.&lt;/p&gt;
+
+&lt;p&gt;These elegant solutions are the ones we end up using and can only happen when creativity gets applied to systems.
+Creativity can produce great solutions, but only when we understand the system in which that creativity manifests itself.&lt;/p&gt;
+
+&lt;h1&gt;Creativity Without Systems Thinking&lt;/h1&gt;
+
+&lt;p&gt;Without understanding systems, no amount of creativity will solve problems or reach goals without understanding
+the system that artistic solution lives in. Creativity is most commonly applied as art. Art generally attempts
+to communicate, expand, or understand some aspect of the human condition. Art might seem like it&amp;rsquo;s divorced from
+systems thinking, but I argue that it is deeply integrated with systems thinking. Why? Because some art is better
+than other art.&lt;/p&gt;
+
+&lt;p&gt;A while back, I composed this piece in Microsoft Paint, while waiting for my house&amp;rsquo;s internet connection to return:
+&lt;img src=&quot;/images/noInterwebs.jpg&quot; title=&quot;noInterwebs.jpg, Riley Yeakle, 2012, MS Paint&quot; alt=&quot;Riley Yeakle, 2012, MS Paint&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This piece communicates the frustration, anguish, and disillusionment of a young man unable to connect to the internet
+with his laptop one summery night. As poignant as this piece is, it isn&amp;rsquo;t nearly as good art as 
+&lt;a href=&quot;http://en.wikipedia.org/wiki/The_Scream&quot;&gt;The Scream&lt;/a&gt; by Edvard Munch.  Munch better applies both artistic
+resources and methods to convey the essence of his piece. Like engineering, art attacks a problem (the human condition)
+and we evaluate art based on how well it attacks that problem. The problem it attacks is highly complex and ill-defined,
+making the evaluation process much more difficult, but nevertheless, the quality of art can be evaluated. Applying systems
+thinking to art helps artists to produce better artistic &amp;lsquo;solutions&amp;rsquo; to understanding/communicating/expanding the human
+condition.&lt;/p&gt;
+
+&lt;p&gt;Like an engineer who understands the &amp;lsquo;system&amp;rsquo; of physics, by understanding the &amp;lsquo;system&amp;rsquo; of humanity, an artist can take
+that aspect of the human condition and use her artistic resources to communicate it as elegantly and effectively as possible.
+Also like the engineer, the artist experiences constraint and scarcity in her work. A canvas can only be so large, and only
+so many sounds can be played at once and still make sense. In order to produce a great painting, a painter needs to understand
+how different strokes and colors can communicate the tone of a scene. By choosing and applying these techniques well, an artist
+can better communicate or advance some aspect of the human experience, making her work a &amp;lsquo;better&amp;rsquo; piece of art.&lt;/p&gt;
+
+&lt;h1&gt;The Art of Engineering and Engineering Art&lt;/h1&gt;
+
+&lt;p&gt;Great solutions, either in art or engineering are a consequence of the synthesis of both creative and systems thinking.&lt;/p&gt;
+
+&lt;p&gt;In art, an artist must apply knowledge about the system of the human experience to effectively convey meaning in her piece.
+In engineering, creative application of science and math make solutions innovative in the face of scarcity. In both situations,
+when an infinite number of solutions are possible, the engineer and the artist must choose which ones will do the best job
+attacking their problems. The effective combination of creativity and systems knowledge to problem solving is the art of
+engineering, which is not too far from engineering great art.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A New Project: WTF Is Engineering?</title>
+   <link href="ryeakle.github.com/posts/a-new-project-wtf-is-engineering"/>
+   <updated>2013-02-10T00:00:00-08:00</updated>
+   <id>ryeakle.github.com/posts/a-new-project-wtf-is-engineering</id>
+   <content type="html">&lt;p&gt;Engineers are generally poor at communicating what they do to others, which makes the field scary and mysterious. This can frighten off potential engineers and perpetuate misunderstandings about what engineering actually is.&lt;/p&gt;
+
+&lt;p&gt;This is &amp;ldquo;not chill.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Engineers do really cool things. They make pretty much everything that distinguishes today&amp;rsquo;s society from that of the paleolithic hunter-gatherers. How they make things is also amazing, like evaporating aluminum to make a single layer of aluminum on a surface to give it certain electrical properties. Unfortunately, engineers are very bad at communicating how and what they do to non-engineers. Most ideas and processes in engineering are so abstract, that they require a special vocabulary to describe in a non-verbose manner. Consequently:&lt;/p&gt;
+
+&lt;p&gt;(1) Engineers do sick-nasty awesome things but are generally unable to communicate effectively what they do to non-engineers.&lt;/p&gt;
+
+&lt;p&gt;Enter the graduating high school senior.&lt;/p&gt;
+
+&lt;p&gt;Upon applying for college, this senior will usually need to apply to a major, at least at the University of California campuses and probably most other state schools in the US. Usually for UC engineering, it&amp;rsquo;s a pretty right fit to squeeze the engineering curriculum into 4 years. Switching into or out of a non-overlapping engineering major almost always damns students to 5 years as an undergraduate.&lt;/p&gt;
+
+&lt;p&gt;On top of this, most students don&amp;rsquo;t take engineering classes in high school. Everyone takes English and math and science, so students know sort of what those are all about. At least those subjects are somewhat familiar. Engineering remains foreign.&lt;/p&gt;
+
+&lt;p&gt;(2) At the risk of spending another year in school, aforementioned high school student must choose her engineering major wisely, or change quickly once starting school to ensure she picks the right one.&lt;/p&gt;
+
+&lt;p&gt;Some schools provide guidance pages like Michigan State University does &lt;a href=&quot;http://www.egr.msu.edu/future-engineer/what&quot;&gt;here&lt;/a&gt;, but their guide is only superficially deep. It has some good high level information on engineering disciplines, but not much more than that. It doesn&amp;rsquo;t get deep enough to explain general problem solving techniques or adequately illustrate contemporary issues in engineering.&lt;/p&gt;
+
+&lt;p&gt;So, our high school student, Joanna Future-Engineer-McHollan has a problem. She wants to understand what engineering really is. She wants to know what contemporary issues engineers are tackling and what techniques and methods they use. Mike Curious&amp;rsquo;s teacher said he should apply for an engineering major since he is good at math and science, but he&amp;rsquo;s never really known what engineers do. Sharon Uncertain-Higgs-Possibly-Bryant doesn&amp;rsquo;t even understand how awesome engineering is.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;rsquo;t just limited to high school students though. Perhaps you are a computer engineer by trade and you desperately need your parents to understand that you don&amp;rsquo;t fix computers. Or maybe, you are a dedicated engineering grad student and you know in your heart you could strike up so many bar conversations if only the people around you a knew a tiny of what engineering is about.&lt;/p&gt;
+
+&lt;h2&gt;The Solution&lt;/h2&gt;
+
+&lt;p&gt;An entertaining yet informative, easily accessible, massively viral e-book/print book entitled:&lt;/p&gt;
+
+&lt;h3&gt;WTF Is Engineering?: The Quintessential Guide&lt;/h3&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Analog Fractals: Truer to the Original</title>
+   <link href="ryeakle.github.com/posts/analog-fractals-truer-to-the-original"/>
+   <updated>2013-01-16T00:00:00-08:00</updated>
+   <id>ryeakle.github.com/posts/analog-fractals-truer-to-the-original</id>
+   <content type="html">&lt;p&gt;This post is all about how to draw fractal curves by hand, like these!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/fractals2.jpeg&quot; title=&quot;Fractals!&quot; alt=&quot;Analog Fractals&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In high school one of my friends showed me how to draw the &lt;a href=&quot;http://en.wikipedia.org/wiki/Dragon_Fractal&quot;&gt;Heighway Dragon Curve&lt;/a&gt; by hand. Ever since then, most of my drawings end up looking  like one of these fractals above. There&amp;rsquo;s  plenty of algorithms  for making  these  fractals on a computer. However, unless you, the reader, are actually a data-mining program sifting through this post for  information, then you&amp;rsquo;ll need a different algorithm to draw these efficiently.&lt;/p&gt;
+
+&lt;p&gt;After this, your doodles will never be the same.&lt;/p&gt;
+
+&lt;p&gt;Equipment:&lt;/p&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;&lt;span style=&quot;line-height:13px;&quot;&gt;Graph Paper (the smaller, the better)&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;Your favorite writing utensil (pencil is good for learning, pen is great for showboating)&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2&gt;The Tree Fractal (Difficulty: EZPZ)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/smallTree.jpeg&quot; alt=&quot;Tree Fractal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This fractal looks like a tree.  A really awesome tree. It&amp;rsquo;s a derivative of  the &lt;a href=&quot;http://en.wikipedia.org/wiki/Pythagoras_tree_(fractal)&quot;&gt;Pythagoras Tree  Fractal&lt;/a&gt;. Let&amp;rsquo;s do this!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/treeInstr.jpeg&quot; alt=&quot;Tree Fractal Instructions&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Start with a line on a piece of graph paper. Make the line a length of some integer power  of 2 (1, 2, 4, 8, 16&amp;hellip;) for best results.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The top point of that  line is where the  tree is going to &amp;ldquo;grow&amp;rdquo; (I marked the growth points with red).  Draw 2 lines forking off of the original line at 45 degree  angles that pass through half  as many squares as the first  line.  For example, if you started with a line 4 squares long, then the branches should  pass through 2 squares diagonally.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The  top points of the two new lines are where the tree will grow again. This time draw one line upwards along the grid line and one pointing away from the center  of the tree. They pass through as many squares on the grid as the previous branch, only these new branches will be shorter since they go along the edge of the square instead of the diagonal.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Each of these new lines is the start of a new tree.  Repeat until you can&amp;rsquo;t draw new lines because they&amp;rsquo;re too small to fit nicely on the graph paper.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Q: What if  the branches collide!?&lt;/p&gt;
+
+&lt;p&gt;A: Overlap on the branches is what makes this look even more like a tree. Keep following the same rules and then something like this happens:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/16Tree.jpg&quot; alt=&quot;Big Tree Fractal!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Warning: This is an  O(2&lt;sup&gt;n&lt;/sup&gt;) algorithm. Colloquially, it&amp;rsquo;s &amp;ldquo;wicked slow&amp;rdquo;. A bigger starting length means that  you&amp;rsquo;ll get a cooler looking tree, but the number of lines you need to draw and thus time it takes grows very quickly. Worth it? Sometimes, it really depends on your situation.&lt;/p&gt;
+
+&lt;h2&gt;The Lévy C Curve (Difficulty: Harder than the tree)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/levy.jpeg&quot; alt=&quot;The Levy C Curve&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://en.wikipedia.org/wiki/L%C3%A9vy_C_curve&quot;&gt;Lévy C Curve&lt;/a&gt; is a pretty sweet fractal.  This one is closely related to the dragon fractal, but is much easier to draw. Ready? Great.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/LevyInstr.jpeg&quot; alt=&quot;Levy Curve Instructions&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Start with two lines forming coming together to form a right angle. I made them 2 squares long, but I highly suggest you use lines that are only one square long on your graph paper. The red dotted line indicates an axis of rotation we&amp;rsquo;ll use to &amp;lsquo;flip&amp;rsquo; the fractal to create the next iteration. To illustrate the  'flip' with your hand, place your hand on a flat surface palm up. Then, keeping your little finger on the surface, twist your wrist so that your hand flips over on  the surface, palm down. That&amp;rsquo;s what we&amp;rsquo;re going to do with the curve on the page.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The red axis is like a mirror.  By drawing the piece we started with&amp;rsquo;s &amp;lsquo;reflection&amp;rsquo; we get the next iteration. You can also imagine this step as swinging a copy of what we already drew around the axis and putting it back on the page. Our new axis of rotation is going to be 45 degrees off of the original, as indicated in the drawing.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;To make the figure in 3, we rotated everything we had in part 2 around that 45 degree axis. The 45 degree rotation axis always starts at the end of the Lévy curve line.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Continue the process of flipping across the axis of rotation, alternating between the original axis and the 45 degree off axis. Eventually you&amp;rsquo;ll run out of room on the paper and the curve will look awesome!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h2&gt;The Dragon Fractal (Difficulty: Actually takes some practice)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/dragon.jpeg&quot; title=&quot;RAWRRR!&quot; alt=&quot;Dragon Fractal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This looks familiar yes? If you read Jurassic Park it should.  In the novel, this beautiful fractal is used to represent the park&amp;rsquo;s descent into chaos.  Also known as the &lt;a href=&quot;http://en.wikipedia.org/wiki/Dragon_Fractal&quot;&gt;Heighway Dragon&lt;/a&gt;, it  is simply beautiful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/analog-fractals/dragonInstr.jpeg&quot; alt=&quot;Dragon Instructions&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Start with a straight line.  On my page, it&amp;rsquo;s two units long, but using a one unit long line means you&amp;rsquo;ll have more space to grow this beast. The red dot marks the anchor point for this iteration of the fractal. While we made the Lévy C Curve by reflecting a copy of the image across an axis, the dragon fractal is constructed by rotating a copy of the image about the anchor point.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;To make the image in step 2, imagine lifting up a copy of the line in step 1, rotating it 90 degrees to the left about the anchor point, then placing it back down on the page. The end point of the new line, marked in red, is the new anchor point. The previous anchor point is marked in blue to help you visualize the rotation process.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;For the image in step 3, rotate the ENTIRE image in part two about the anchor point 90 degrees to the left. This is the rule for growing the fractal. Since we started with rotating to the left, we must rotate it to the left every time.  You could also start by rotating to the right, then rotating it to the right every time.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Like each of the other steps, this is made by rotating the ENTIRE figure about the anchor point. Notice that the hook shape from step 3 is rotated to make the image in step 4. Repeat this rotation process until you&amp;rsquo;re out of room (or can&amp;rsquo;t draw the next step without getting hopelessly lost).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;Extra Tips For the Dragon Fractal:&lt;/h3&gt;
+
+&lt;p&gt;A good sort of training wheels way to build the dragon fractal (especially as it gets larger) is to draw two copies of it, one on it&amp;rsquo;s own sheet of paper.  You then have one copy to physically rotate to see what the next piece actually looks like without having to imagine it in your mind.&lt;/p&gt;
+
+&lt;p&gt;On the dragon, error checking can get quite difficult as the fractal grows since it doesn&amp;rsquo;t have a symmetric shape like the tree and the C curve. It helps a lot to cheat and look at pictures of what the curve is supposed to look like at a given iteration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Fractals&quot;&gt;Fractals!&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SUCCESS!</title>
+   <link href="ryeakle.github.com/posts/success"/>
+   <updated>2012-12-17T00:00:00-08:00</updated>
+   <id>ryeakle.github.com/posts/success</id>
+   <content type="html">&lt;p&gt;Ready for your daily dose of survivor bias?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/nanowrimo/Winner-180x180.jpg&quot; alt=&quot;Nanowrimo Success!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &amp;lsquo;write your words before you go to sleep&amp;rsquo; strategy is the way to go.  I actually ended up finishing a day ahead of time (Nov 29th ~midnight) due to some furious writing over the Thanksgiving weekend. Final word count: ~50,400 words. Is it the next great American novel? Nope. Am I proud of it? Well, some parts at least. Am I glad I did it? Hell. Yes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/nanowrimo/screenshot.jpg&quot; alt=&quot;The end?&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: The editing time is huge because I left this word document open
+all the time. It&amp;rsquo;s easier to work on things when they&amp;rsquo;re in your
+face. Actual writing time was closer to 60-75 hours.&lt;/p&gt;
+
+&lt;p&gt;(last edit 2013-05-06)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NaNoWriMo Update</title>
+   <link href="ryeakle.github.com/posts/nanowrimo-update"/>
+   <updated>2012-11-11T00:00:00-08:00</updated>
+   <id>ryeakle.github.com/posts/nanowrimo-update</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/nanowrimo/entropycover.jpg&quot; alt=&quot;Entropy Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So far so good on &lt;a href=&quot;http://nanowrimo.org&quot;&gt;NaNoWriMo&lt;/a&gt; 2012. My word count is up to 13,785 words,  
+27% of the 50,000 word goal. Some strategies that have helped me keep up my momentum:&lt;/p&gt;
+
+&lt;h3&gt;Write them words!&lt;/h3&gt;
+
+&lt;p&gt;As a hard rule, I finish 1,667 words per day BEFORE I go to sleep (except for yesterday.) 
+It usually takes me around 2 hours to do this, so I never get too far behind. In
+NaNoWriMo, the only metric of success is word count, so get them words wrote!&lt;/p&gt;
+
+&lt;h3&gt;Know the subject&lt;/h3&gt;
+
+&lt;p&gt;By writing about a topic I know, (engineering!) it&amp;rsquo;s easy to keep ideas about where the story should go next.
+I know what the characters involved are feeling and what the settings are like.  A few years ago I tried to
+write about amoebas, but I did not know anything about amoebas. This turned out to be disastrous.  This year,
+writing about engineering has been awesome, because I understand engineering. I do not understand amoebas.&lt;/p&gt;
+
+&lt;h3&gt;About my NaNoWriMo Novel&lt;/h3&gt;
+
+&lt;p&gt;Entropy is a story about a group of garage engineers who accidentally invent an unbelievable piece technology,
+and the ramifications of their discovery. This sounds a lot like Shane Carruth&amp;rsquo;s masterpiece
+&lt;a href=&quot;http://www.primermovie.com/&quot;&gt;Primer&lt;/a&gt;, a brilliant engineering fiction puzzle film. This is because
+I&amp;rsquo;m shooting for something that falls into the same sort of engineering fiction genre.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rileyyeakle.com/posts/success&quot;&gt;Written in 30 days?&lt;/a&gt; That&amp;rsquo;s how you know it&amp;rsquo;s going to be good!)&lt;/p&gt;
+
+&lt;p&gt;(Last edit: 2013-05-07)&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NaNoWriMo is Coming!</title>
+   <link href="ryeakle.github.com/posts/nanowrimo-is-coming"/>
+   <updated>2012-10-30T00:00:00-07:00</updated>
+   <id>ryeakle.github.com/posts/nanowrimo-is-coming</id>
+   <content type="html">&lt;p&gt;That&amp;rsquo;s right, November is National Novel Writing Month.  &lt;a href=&quot;http://www.nanowrimo.org/&quot;&gt;NaNoWriMo&lt;/a&gt; is an awesome challenge to write a full-length 50,000 word novel in 1 month (30 days). It&amp;rsquo;s not about writing well, just writing a lot. 1,667 words per day to be precise.&lt;/p&gt;
+
+&lt;p&gt;I attempted this 2 years ago and completed almost 2 whole pages! Yes, I was young and inexperienced back then, this time is for real.&lt;/p&gt;
+
+&lt;p&gt;Matt Cutts, an engineer from Google reveals what he calls &amp;ldquo;the secret&amp;rdquo; to NaNoWriMo in his TED talk, &lt;a href=&quot;http://www.ted.com/talks/matt_cutts_try_so&quot;&gt;Try Something New For 30 Days&lt;/a&gt;.  &quot;&amp;hellip;The secret,&amp;ldquo; he says, &quot;is to not go to sleep until you&amp;rsquo;ve finished your words for the day&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;NaNoWriMo comes but once a year. Time to become a novelist!&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Experimenting With Visualization</title>
+   <link href="ryeakle.github.com/posts/ucsd-visualization-with-processing"/>
+   <updated>2012-10-18T00:00:00-07:00</updated>
+   <id>ryeakle.github.com/posts/ucsd-visualization-with-processing</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/UCSD_Dept_BubblesSPR12.gif&quot; alt=&quot;UCSD Undergraduate Department Sizes Spring 2012&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been spending some time here and there playing with &lt;a href=&quot;http://processing.org&quot;&gt;Processing&lt;/a&gt;, a graphic generating programming language.  This is a visualization I made showing the sizes of the the different academic departments at the University of California, San Diego using &lt;a href=&quot;http://blink.ucsd.edu/instructors/courses/enrollment/week3.html&quot;&gt;information from the Registrar&amp;rsquo;s Office&lt;/a&gt;. Even though this is a pretty pedestrian visualization, it&amp;rsquo;s pretty cool to give those enrollment numbers geometric meaning. That&amp;rsquo;s a lot of biology majors&amp;hellip;&lt;/p&gt;
+
+&lt;h2&gt;How It&amp;rsquo;s Done&lt;/h2&gt;
+
+&lt;p&gt;The program bundles together the department code with the number of undergraduates enrolled in it, then generates a circle with a random color with size proportional to the number of students.  The scale factor that controls the circle size is  constant within each rendering, but varies between renderings. Students in double (and triple) majors are counted in each department he/she is enrolled in.&lt;/p&gt;
+
+&lt;h2&gt;The 6 College Breakdown&lt;/h2&gt;
+
+&lt;p&gt;The breakdown for the &lt;a href=&quot;http://admissions.ucsd.edu/colleges/about/index.html&quot;&gt;6 undergraduate colleges&lt;/a&gt; that form UCSD:&lt;/p&gt;
+
+&lt;h4&gt;Revelle College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/Revelle_Dept_BubblesSPR12.gif&quot; alt=&quot;Revelle&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Muir College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/Muir_Dept_BubblesSPR12.gif&quot; alt=&quot;Muir&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Marshall College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/Marshall_Dept_BubblesSPR12.gif&quot; alt=&quot;Marshall&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Warren College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/Warren_Dept_BubblesSPR12.gif&quot; alt=&quot;Warren&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Eleanor Roosevelt College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/ERC_Dept_BubblesSPR12.gif&quot; alt=&quot;ERC&quot; /&gt;&lt;/p&gt;
+
+&lt;h4&gt;Sixth College&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ucsd-vis/Sixth_Dept_BubblesSPR12.gif&quot; alt=&quot;6th&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Department Codes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ANTH&amp;hellip;..Anthropology&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;BENG&amp;hellip;..Bioengineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;BIOL &amp;hellip;&amp;hellip;Biology&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CENG&amp;hellip;&amp;hellip;Chemical Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CGS&amp;hellip;&amp;hellip;&amp;hellip;Critical Gender Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CHEM&amp;hellip;..Chemistry&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CHIN&amp;hellip;&amp;hellip;.Chinese Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;COGS&amp;hellip;&amp;hellip;.Cognitive Science&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;COMM&amp;hellip;..Communications&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CSE&amp;hellip;&amp;hellip;&amp;hellip;.Computer Science and Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ECE&amp;hellip;&amp;hellip;&amp;hellip;.Electrical and Computer Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ECON&amp;hellip;&amp;hellip;.Economics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ESYS&amp;hellip;&amp;hellip;&amp;hellip;Environmental Systems&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ETHN&amp;hellip;&amp;hellip;.Ethnic Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;GMST&amp;hellip;&amp;hellip;..German Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HDP&amp;hellip;&amp;hellip;&amp;hellip;.Human Development&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;HIST&amp;hellip;&amp;hellip;&amp;hellip;History&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;INTD&amp;hellip;&amp;hellip;&amp;hellip;Interdisciplinary?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;INTL&amp;hellip;&amp;hellip;&amp;hellip;International Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ITAL&amp;hellip;&amp;hellip;&amp;hellip;Italian Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;JAPN&amp;hellip;&amp;hellip;..Japanese Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;JUDA&amp;hellip;&amp;hellip;.Judaic Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;LATI&amp;hellip;&amp;hellip;&amp;hellip;Latino Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;LING&amp;hellip;&amp;hellip;&amp;hellip;Linguistics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;LIT&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;Literature&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MAE&amp;hellip;&amp;hellip;&amp;hellip;.Mechanical and Aersospace Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MATH&amp;hellip;&amp;hellip;.Mathematics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;MUS&amp;hellip;&amp;hellip;&amp;hellip;.Music&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;NENG&amp;hellip;&amp;hellip;..Nanoengineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PHIL&amp;hellip;&amp;hellip;&amp;hellip;Philosophy&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PHYS&amp;hellip;&amp;hellip;&amp;hellip;Physics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;POLI&amp;hellip;&amp;hellip;&amp;hellip;.Political Science&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;PSYC&amp;hellip;&amp;hellip;&amp;hellip;.Psychology&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;RELI&amp;hellip;&amp;hellip;&amp;hellip;.Religion&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;RUSS&amp;hellip;&amp;hellip;&amp;hellip;Russian Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SE&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;.Structural Engineering&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SIO&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;Scripps Institute of Oceanography (think Earth Science)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;SOC&amp;hellip;&amp;hellip;&amp;hellip;..Sociology&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;THEA&amp;hellip;&amp;hellip;..Theater and Dance&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;TWS&amp;hellip;&amp;hellip;&amp;hellip;.Third-world Studies&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;UNAF&amp;hellip;&amp;hellip;..Undeclared&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;USP&amp;hellip;&amp;hellip;&amp;hellip;..Urban Studies and Planning&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VIS&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;Visual Arts&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

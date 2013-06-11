@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <title>
-    {% if page.title %}
-      {{ page.title }} &ndash;
-    {% endif %}
-    {{ site.name }}
+    
+      Not Found &ndash;
+    
+    Riley Yeakle
   </title>
 
-  <meta name="author" content="{{ site.name }}" />
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="author" content="Riley Yeakle" />
+  <meta name="description" content="This needs a description" />
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
@@ -27,30 +27,19 @@
 
 <body>
  
- <section class="banner">
-   <section class="myname">
-      <a href="/">
-         <span id="nametxt"> Riley Yeakle</span>
-      </a>
-   </section>
-   <section class="header">
-      <!-- <img src="/images/o-circle.png"/>-->
-   </section>
-<!--   <section class="h-left"></section> -->
-   <section class="dispimg">
-      <!-- <object data="/images/o-circle.svg" type="image/svg+xml">
-         <img src="/images/o-circle-alpha.png"/> 
-      </object> -->
-      <a href="/"><img src="/images/o-circle.png"/></a>
-   </section>
-   <section class="h-right"></section>
-
- </section>
+ <banner class="banner">
+   <myname class="myname">
+      Riley Yeakle
+   </myname>
+   <header class="header">
+      <img src="/images/header.png"/>
+   </header>
+ </banner>
 
 <section class="container">
   <section class="sidebar">
     <a href="/">
-      <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
+      <img src="http://gravatar.com/avatar/ab26d5ab8c986c8a5a18c2d4546d1dab.png?s=150" height="75" width="75" class="avatar" />
     </a>
 
     <section class="sections">
@@ -62,16 +51,17 @@
     </section>
   </section>
 
-  {{ content }}
+  <section class="content">
+  <h1>Not Found</h1>
+
+  <p>Sorry! Couldn't find that page. Bummer.</p>
+</section>
 
 </section>
   
   <section class="footer">
-      <span id="theme">
-        Powered by Jekyll and Github Pages, theme derived from 'Left' by Zach Holman.
-      </span>
-      <a href="https://github.com/{{ site.github }}" target="_blank"><img src="/images/github.png" /></a>
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="/images/twitter.png"></a>
+      <a href="https://github.com/ryeakle" target="_blank"><img src="/images/github.png" /></a>
+      <a href="https://twitter.com/RileyYeakle" target="_blank"><img src="/images/twitter.png"></a>
     </section>
 
 </body>
