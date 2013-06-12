@@ -242,7 +242,8 @@ a {
      margin: 0px 0 0px 0px;
      font-size: 40px;
      font-family: Helvetica, sans-serif;
-     color: #4f4f4f;
+     /*color: #4f4f4f;*/
+     color: black;
      display: block;}
    .banner .header {
      height: 1px;
