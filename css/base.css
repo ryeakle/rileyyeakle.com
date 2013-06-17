@@ -23,9 +23,9 @@ a {
   left: 15px;
   top: 120px;*/
   width: 80px;
-  height: 500px;
-  margin: 5px 0 0 0;
-  float: left;
+  /*height: 500px;*/
+  margin: 10px 0 0 10px;
+  /*float: left;*/
   font-family: Helvetica, sans-serif;}
   .container .sidebar a {
     text-decoration: none; }
@@ -81,7 +81,8 @@ a {
   max-width: 650px;
   margin-left: 95px;
   margin-right: 20px;
-  margin-bottom: 50px;}
+  margin-top: -200px;}
+
   .container .content h1 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -231,15 +232,21 @@ a {
     color: #fff; }
 
 .banner {
-   max-width: 650px;
+   max-width: 760px;
    max-height: 80px;
-   margin: 15px 0 0 110px;}
+   margin: 15px 0 0 10px;}
+  .banner .icon {
+	max-width: 100px;
+   max-height: 100px;
+	float: left;
+   }
   .banner .myname a {
      text-align: center;
      text-decoration: none;
      text-transform: uppercase;
      letter-spacing: 30px;
      margin: 0px 0 0px 0px;
+     padding: 10px 0 0 0;
      font-size: 40px;
      font-family: Helvetica, sans-serif;
      /*color: #4f4f4f;*/
@@ -250,7 +257,7 @@ a {
      background-image: url("/images/drk-grey-pix.png");
      background-repeat: repeat-x;
      display: block;
-     margin-left: auto;
+     margin-left: 110px;
      margin-right: auto;}
    /*.banner .h-left {
      height: 32px;
@@ -264,9 +271,8 @@ a {
      height: 32px;
      background-image: url("/images/drk-grey-pix.png");
      background-repeat: repeat-x;
-     margin: 15px 100px 0 100px; }
-     
-
+     margin: 15px 100px 0 210px; }
+ 
 .footer {
    max-width: 650px;
    margin: 15px 0px 0 110px;}
