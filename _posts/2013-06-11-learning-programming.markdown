@@ -5,9 +5,7 @@ category: posts
 ---
 
 Friends often ask me, 
->I want to learn how to program, how can I learn how to program? What should I do to start?
-
-The best answer is a question: 
+>I want to learn how to program, how can I learn how to program? What should I do to start? 
 
 ##What do you want to learn?
 Is your goal to learn how computers work? We're not talking about webapps and all that so called 'high level' nonsense. 
@@ -110,7 +108,7 @@ books I've seen that DOESN'T do something like:
 
 >Ch. 5: Recursive Polymorphism in Non-deterministic Data Structures
 
-High level programming is beautiful. Once you start, its hard to leave. 
+High level programming is beautiful. Once you start, it's hard to leave. 
 Principles like DRY (don't repeat yourself) and those awesome built-in 
 data structures make for some elegant solutions to fundamentally complex 
 problems.
@@ -126,8 +124,9 @@ excellent compositions using this language takes years of diligent practice.
 
 As you get started, I highly recommend you read the essay [Teach Yourself Programming in 10 Years][pn]
 by Peter Norvig who drops some serious wisdom on the subject. In fact, you should probably do
-that right... [now][pn]. 
+that right... now. 
 
+(Last update 2013-06-23)
 [pn]: http://norvig.com/21-days.html
 [lthw]: http://learncodethehardway.org/
 [arduino]: http://arduino.cc
