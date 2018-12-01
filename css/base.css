@@ -86,9 +86,6 @@ a {
   .container .content h1 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    /*font-family: Helvetica, sans-serif;*/
-    /*font-family: Futura, sans-serif;*/
-    /*font-family: Futura, "Trebuchet MS", Arial, sans-serif;*/
     font-weight: 400; }
   .container .content h1 a {
     color: #111;
@@ -241,16 +238,15 @@ a {
 	float: left;
    }
   .banner .myname a {
-     text-align: center;
+     text-align: left;
      text-decoration: none;
-     text-transform: uppercase;
-     letter-spacing: 30px;
-     margin: 0px 0 0px 0px;
-     padding: 10px 0 0 0;
-     font-size: 40px;
-     font-family: Helvetica, sans-serif;
-     /*color: #4f4f4f;*/
-     color: black;
+/*     text-transform: uppercase;*/
+     letter-spacing: 0px;
+     margin: 0px 0 10px 0px;
+     padding: 20px 20px 20px 20px;
+     font-size: 48px;
+     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+     color: #4f4f4f;
      display: block;}
    .banner .header {
      height: 1px;
