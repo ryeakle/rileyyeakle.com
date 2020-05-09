@@ -11,3 +11,5 @@ description: This needs a description
 twitter: RileyYeakle
 github: ryeakle
 gravatar_url: http://gravatar.com/avatar/ab26d5ab8c986c8a5a18c2d4546d1dab.png
+
+theme: jekyll-theme-dinky
