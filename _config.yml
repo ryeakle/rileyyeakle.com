@@ -5,8 +5,6 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Riley Yeakle
-url: ryeakle.github.io
-gravatar_url: http://gravatar.com/avatar/ab26d5ab8c986c8a5a18c2d4546d1dab.png
-
+title: Riley Yeakle
+description: description parameter
 theme: jekyll-theme-dinky

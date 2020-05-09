@@ -1,5 +1,3 @@
-index.md
-
 ## About
 I completed my undergraduate degree in Electrical Engineering with a focus on Machine Intelligence at Univeristy of California, San Diego in 2014. During my undergraduate I led the Intelligent Camera Trap Project in the <a href = "http://e4e.ucsd.edu">Engineers for Exploration</a> program. I went on to complete my masters degree in Electrical Engineering there in 2016, where I worked on underwater acoustic signal processing with the Kastner Research Group.
 
